@@ -36,7 +36,7 @@ int main() {
     printf("                                                                       |___/ \n");
     printf("\n\n");
     
-    Sleep(20000);
+    Sleep(30000);
     
     return 0;
 }
